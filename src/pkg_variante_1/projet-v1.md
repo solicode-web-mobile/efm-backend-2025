@@ -20,12 +20,12 @@ order: 1
             <tr>
                <td class="bold">Solicode</td>
                <td class="bold">Examen de Fin de Module</td>
-               <td class="bold">Date EFM : 12/02/2025</td>
+               <td class="bold">Date EFM : 24/03/2025</td>
             </tr>
             <tr>
                 <td class="bold">Filière : DMB</td>
-                <td class="highlight">Base de données</td>
-                <td class="bold">Durée : 1 h 30 min</td>
+                <td class="highlight">Backend</td>
+                <td class="bold">Durée : 3 h 30 min</td>
             </tr>
             <tr>
                <td class="bold">Groupe : 101</td>
